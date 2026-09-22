@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cards",
+  "description": "The cards grouped by series and sets",
+  "type": "object",
+  "properties": {
+    "series": {
+      "description": "The series",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "description": "The name of the series",
+            "type": "string"
+          },
+          "sets": {
+            "description": "The sets of the series",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "description": "The id of the set",
+                  "type": "string"
+                },
+                "name": {
+                  "description": "The name of the set",
+                  "type": "string"
+                },
+                "code": {
+                  "description": "The code of the set",
+                  "type": ["string", "null"]
+                },
+                "releaseDate": {
+                  "description": "The release date of the set",
+                  "type": ["string"]
+                },
+                "printedTotal": {
+                  "description": "The printed total of the set",
+                  "type": ["integer", "null"]
+                },
+                "cards": {
+                  "description": "The cards of the set",
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "description": "The id of the card",
+                        "type": "string"
+                      },
+                      "name": {
+                        "description": "The name of the card",
+                        "type": "string"
+                      },
+                      "type": {
+                        "description": "The type of the card",
+                        "type": "string",
+                        "enum": ["POKEMON", "TRAINER", "ENERGY"]
+                      },
+                      "rarity": {
+                        "description": "The rarity of the card",
+                        "type": "string",
+                        "enum": [
+                          "COMMON",
+                          "UNCOMMON",
+                          "RARE",
+                          "RARE_HOLO",
+                          "DOUBLE_RARE",
+                          "RARE_HOLO_EX",
+                          "RARE_HOLO_GX",
+                          "RARE_HOLO_V",
+                          "RARE_HOLO_VMAX",
+                          "RARE_HOLO_VSTAR",
+                          "RARE_BREAK",
+                          "RARE_PRIME",
+                          "RARE_ULTRA",
+                          "RARE_HOLO_LV_X",
+                          "LEGEND",
+                          "RADIANT_RARE",
+                          "AMAZING_RARE",
+                          "SHINY_RARE",
+                          "ILLUSTRATION_RARE",
+                          "ULTRA_RARE",
+                          "TRAINER_GALLERY_RARE_HOLO",
+                          "RARE_ACE",
+                          "ACE_SPEC_RARE",
+                          "RARE_SHINING",
+                          "RARE_SHINY",
+                          "RARE_SHINY_GX",
+                          "RARE_PRISM_STAR",
+                          "RARE_HOLO_STAR",
+                          "SHINY_ULTRA_RARE",
+                          "RARE_RAINBOW",
+                          "RARE_SECRET",
+                          "SPECIAL_ILLUSTRATION_RARE",
+                          "HYPER_RARE",
+                          "MEGA_ATTACK_RARE",
+                          "MEGA_HYPER_RARE",
+                          "PIKACHU_RARE",
+                          "BLACK_WHITE_RARE",
+                          "FUTURISTIC_RARE",
+                          "RGB_RARE",
+                          "PROMO",
+                          "CLASSIC_COLLECTION"
+                        ]
+                      },
+                      "energyTypes": {
+                        "description": "The energy types of the card",
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "COLORLESS",
+                            "DARKNESS",
+                            "DRAGON",
+                            "FAIRY",
+                            "FIGHTING",
+                            "FIRE",
+                            "GRASS",
+                            "LIGHTNING",
+                            "METAL",
+                            "PSYCHIC",
+                            "WATER"
+                          ]
+                        }
+                      },
+                      "pokedexNumbers": {
+                        "description": "The pokedex numbers of the card",
+                        "type": "array",
+                        "items": {
+                          "type": "integer"
+                        }
+                      },
+                      "illustrators": {
+                        "description": "The illustrators of the card",
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

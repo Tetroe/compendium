@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pokedex",
+  "description": "The pokedex contains information about all pokemons",
+  "type": "object",
+  "properties": {
+    "pokemons": {
+      "description": "The list of pokemons",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "The unique identifier for the pokemon",
+            "type": "integer"
+          },
+          "name": {
+            "description": "The name of the pokemon",
+            "type": "string"
+          },
+          "types": {
+            "description": "The types of the pokemon",
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "BUG",
+                "DARK",
+                "DRAGON",
+                "ELECTRIC",
+                "FAIRY",
+                "FIGHTING",
+                "FIRE",
+                "FLYING",
+                "GHOST",
+                "GRASS",
+                "GROUND",
+                "ICE",
+                "NORMAL",
+                "POISON",
+                "PSYCHIC",
+                "ROCK",
+                "STEEL",
+                "WATER"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

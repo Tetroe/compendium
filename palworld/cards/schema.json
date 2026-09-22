@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cards",
+  "description": "The cards grouped by sets",
+  "type": "object",
+  "properties": {
+    "sets": {
+      "description": "The sets",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "The id of the set",
+            "type": "string"
+          },
+          "name": {
+            "description": "The name of the set",
+            "type": "string"
+          },
+          "releaseDate": {
+            "description": "The release date of the set",
+            "type": ["string"]
+          },
+          "cards": {
+            "description": "The cards of the set",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "description": "The id of the card",
+                  "type": "string"
+                },
+                "name": {
+                  "description": "The name of the card",
+                  "type": "string"
+                },
+                "type": {
+                  "description": "The type of the card",
+                  "type": "string",
+                  "enum": ["PAL", "STRUCTURE", "GEAR", "EVENT", "SOUL"]
+                },
+                "rarity": {
+                  "description": "The rarity of the card",
+                  "type": "string",
+                  "enum": [
+                    "COMMON",
+                    "UNCOMMON",
+                    "RARE",
+                    "DOUBLE_RARE",
+                    "SUPER_RARE",
+                    "OVER_SUPER_RARE",
+                    "SUPER_PARALLEL",
+                    "SUPER_SPECIAL_PARALLEL",
+                    "SUPER_SPECIAL_SOUL"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
