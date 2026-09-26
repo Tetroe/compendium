@@ -125214,7 +125214,7 @@
           "printedTotal": null,
           "cards": [
             {
-              "id": "2",
+              "id": "CC01",
               "name": "Blastoise",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125223,7 +125223,7 @@
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "4",
+              "id": "CC02",
               "name": "Charizard",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125232,7 +125232,7 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "15",
+              "id": "CC03",
               "name": "Venusaur",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125241,14 +125241,14 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "15",
+              "id": "CC04",
               "name": "Here Comes Team Rocket!",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "15",
+              "id": "CC05",
               "name": "Rocket's Zapdos",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125257,7 +125257,7 @@
               "illustrators": ["Shin-ichi Yoshida"]
             },
             {
-              "id": "15",
+              "id": "CC06",
               "name": "Claydol",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125266,14 +125266,14 @@
               "illustrators": ["Midori Harada"]
             },
             {
-              "id": "73",
+              "id": "CC07",
               "name": "Imposter Professor Oak",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "8",
+              "id": "CC08",
               "name": "Dark Gyarados",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125282,7 +125282,7 @@
               "illustrators": ["Kagemaru Himeno"]
             },
             {
-              "id": "24",
+              "id": "CC09",
               "name": "_____'s Pikachu",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125291,7 +125291,7 @@
               "illustrators": ["Kagemaru Himeno"]
             },
             {
-              "id": "20",
+              "id": "CC10",
               "name": "Cleffa",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125300,7 +125300,7 @@
               "illustrators": ["Kagemaru Himeno"]
             },
             {
-              "id": "66",
+              "id": "CC11",
               "name": "Shining Magikarp",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125309,7 +125309,7 @@
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "9",
+              "id": "CC12",
               "name": "Team Magma's Groudon",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125318,14 +125318,14 @@
               "illustrators": ["Kazuo Yazawa"]
             },
             {
-              "id": "86",
+              "id": "CC13",
               "name": "Rocket's Admin.",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "88",
+              "id": "CC14",
               "name": "Mew ex",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125334,7 +125334,7 @@
               "illustrators": ["Ryo Ueda"]
             },
             {
-              "id": "93",
+              "id": "CC15",
               "name": "Gardevoir ex δ",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125343,7 +125343,7 @@
               "illustrators": ["Masahiko Ishii"]
             },
             {
-              "id": "17",
+              "id": "CC16",
               "name": "Umbreon ★",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125352,7 +125352,7 @@
               "illustrators": ["Masakazu Fukuda"]
             },
             {
-              "id": "109",
+              "id": "CC17",
               "name": "Luxray GL LV.X",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125361,7 +125361,7 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "145",
+              "id": "CC18",
               "name": "Garchomp C LV.X",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125370,7 +125370,7 @@
               "illustrators": ["Shizurow"]
             },
             {
-              "id": "107",
+              "id": "CC19",
               "name": "Donphan",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125379,7 +125379,7 @@
               "illustrators": ["Kent Kanetsuna"]
             },
             {
-              "id": "113",
+              "id": "CC20",
               "name": "Reshiram",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125388,7 +125388,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "114",
+              "id": "CC21",
               "name": "Zekrom",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125397,7 +125397,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "54",
+              "id": "CC22",
               "name": "Mewtwo-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125406,7 +125406,7 @@
               "illustrators": ["Shizurow"]
             },
             {
-              "id": "97",
+              "id": "CC23",
               "name": "Xerneas-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125415,7 +125415,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "76",
+              "id": "CC24",
               "name": "M Rayquaza-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -125424,7 +125424,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "60",
+              "id": "CC25",
               "name": "Tapu Lele-GX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180911,7 +180911,7 @@
           "printedTotal": null,
           "cards": [
             {
-              "id": "58",
+              "id": "CC01",
               "name": "Pikachu",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180920,7 +180920,7 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "4",
+              "id": "CC02",
               "name": "Charizard",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180929,14 +180929,14 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "18",
+              "id": "CC03",
               "name": "Misty",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "69",
+              "id": "CC04",
               "name": "Erika's Jigglypuff",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
@@ -180944,7 +180944,7 @@
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "25",
+              "id": "CC05",
               "name": "Sneasel",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180953,7 +180953,7 @@
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "106",
+              "id": "CC06",
               "name": "Shining Celebi",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180962,7 +180962,7 @@
               "illustrators": ["Hironobu Yoshida"]
             },
             {
-              "id": "149",
+              "id": "CC07",
               "name": "Lugia",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180971,7 +180971,7 @@
               "illustrators": ["Naoyo Kimura"]
             },
             {
-              "id": "5",
+              "id": "CC08",
               "name": "Delcatty",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180980,7 +180980,7 @@
               "illustrators": ["Atsuko Nishida"]
             },
             {
-              "id": "19",
+              "id": "CC09",
               "name": "Dark Tyranitar",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180989,7 +180989,7 @@
               "illustrators": ["Nakaoka"]
             },
             {
-              "id": "108",
+              "id": "CC10",
               "name": "Scizor ex",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -180998,7 +180998,7 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "11",
+              "id": "CC11",
               "name": "Metagross",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181007,7 +181007,7 @@
               "illustrators": ["Masakazu Fukuda"]
             },
             {
-              "id": "106",
+              "id": "CC12",
               "name": "Palkia LV.X",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181016,7 +181016,7 @@
               "illustrators": ["Ryo Ueda"]
             },
             {
-              "id": "43",
+              "id": "CC13",
               "name": "Uxie",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181025,7 +181025,7 @@
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "47",
+              "id": "CC14",
               "name": "Crobat G",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181034,7 +181034,7 @@
               "illustrators": ["Makoto Imai"]
             },
             {
-              "id": "94",
+              "id": "CC15",
               "name": "Gengar",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181043,7 +181043,7 @@
               "illustrators": ["Takashi Yamaguchi"]
             },
             {
-              "id": "99",
+              "id": "CC16",
               "name": "Darkrai & Cresselia LEGEND",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181052,7 +181052,7 @@
               "illustrators": ["Noriko Takaya", "Shinji Higuchi"]
             },
             {
-              "id": "100",
+              "id": "CC17",
               "name": "Darkrai & Cresselia LEGEND",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181061,14 +181061,14 @@
               "illustrators": ["Noriko Takaya", "Shinji Higuchi"]
             },
             {
-              "id": "101",
+              "id": "CC18",
               "name": "N",
               "type": "TRAINER",
               "rarity": "CLASSIC_COLLECTION",
               "illustrators": ["Ken Sugimori"]
             },
             {
-              "id": "85",
+              "id": "CC19",
               "name": "Rayquaza-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181077,7 +181077,7 @@
               "illustrators": ["Eske Yoshinob"]
             },
             {
-              "id": "11",
+              "id": "CC20",
               "name": "Genesect-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181086,7 +181086,7 @@
               "illustrators": ["Eske Yoshinob"]
             },
             {
-              "id": "106",
+              "id": "CC21",
               "name": "M Gardevoir-EX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181095,7 +181095,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "41",
+              "id": "CC22",
               "name": "Greninja BREAK",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181104,7 +181104,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "89",
+              "id": "CC23",
               "name": "Solgaleo-GX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181113,7 +181113,7 @@
               "illustrators": ["PLANETA"]
             },
             {
-              "id": "57",
+              "id": "CC24",
               "name": "Buzzwole-GX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181122,7 +181122,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "33",
+              "id": "CC25",
               "name": "Pikachu & Zekrom-GX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181131,7 +181131,7 @@
               "illustrators": ["Mitsuhiro Arita"]
             },
             {
-              "id": "138",
+              "id": "CC26",
               "name": "Zacian V",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181140,7 +181140,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "50",
+              "id": "CC27",
               "name": "Raikou",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181149,7 +181149,7 @@
               "illustrators": ["Hideki Ishikawa"]
             },
             {
-              "id": "114",
+              "id": "CC28",
               "name": "Mew VMAX",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181158,7 +181158,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "123",
+              "id": "CC29",
               "name": "Arceus VSTAR",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
@@ -181167,7 +181167,7 @@
               "illustrators": ["5ban Graphics"]
             },
             {
-              "id": "203",
+              "id": "CC30",
               "name": "Magikarp",
               "type": "POKEMON",
               "rarity": "CLASSIC_COLLECTION",
