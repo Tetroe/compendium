@@ -7,595 +7,595 @@
       "releaseDate": "2026-07-30",
       "cards": [
         {
-          "id": "001",
+          "id": "1",
           "name": "Jormuntide Ignis – Savage Lava Dragon",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "002",
+          "id": "2",
           "name": "Suzaku – Hellfire Wings",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "003",
+          "id": "3",
           "name": "Gobfin Ignis – Blazing Hothead",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "004",
+          "id": "4",
           "name": "Bushi – Ephemeral Blade",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "005",
+          "id": "5",
           "name": "Reptyro – Ore Gorger",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "006",
+          "id": "6",
           "name": "Foxparks – Light of Courage",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "007",
+          "id": "7",
           "name": "Kitsun – Wyrmbane Fangs",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "008",
+          "id": "8",
           "name": "Sparkit – Hazardous Contact",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "009",
+          "id": "9",
           "name": "Univolt – Valiant Thunderclap",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "010",
+          "id": "10",
           "name": "Ragnahawk – Emberwing Striker",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "011",
+          "id": "11",
           "name": "Rooby – Brave Sparks",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "012",
+          "id": "12",
           "name": "Flambelle – Scorching Tears",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "013",
+          "id": "13",
           "name": "Pyrin – Cinder Steed",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "014",
+          "id": "14",
           "name": "Blazehowl – Hellflame Defender",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "015",
+          "id": "15",
           "name": "Mounted Machine Gun",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "016",
+          "id": "16",
           "name": "Primitive Furnace",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "017",
+          "id": "17",
           "name": "Flame Cauldron",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "018",
+          "id": "18",
           "name": "Alarm Bell",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "019",
+          "id": "19",
           "name": "Foxparks' Harness",
           "type": "GEAR",
           "rarity": "RARE"
         },
         {
-          "id": "020",
+          "id": "20",
           "name": "Pump-Action Shotgun",
           "type": "GEAR",
           "rarity": "RARE"
         },
         {
-          "id": "021",
+          "id": "21",
           "name": "Makeshift Handgun",
           "type": "GEAR",
           "rarity": "COMMON"
         },
         {
-          "id": "022",
+          "id": "22",
           "name": "Stone Pickaxe",
           "type": "GEAR",
           "rarity": "COMMON"
         },
         {
-          "id": "023",
+          "id": "23",
           "name": "Axel's Strategy",
           "type": "EVENT",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "024",
+          "id": "24",
           "name": "Treasure Chest Found!",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "025",
+          "id": "25",
           "name": "Chillet – Dragon Whisperer",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "026",
+          "id": "26",
           "name": "Relaxaurus – Hungry Gunner",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "027",
+          "id": "27",
           "name": "Jormuntide – Surging Sea Serpent",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "028",
+          "id": "28",
           "name": "Pengullet – Yearning for the Sky",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "029",
+          "id": "29",
           "name": "Azurobe – Water Dragon Waltz",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "030",
+          "id": "30",
           "name": "Reptyro Cryst – Glacial Devourer",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "031",
+          "id": "31",
           "name": "Penking – Mighty Warrior of the Deep",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "032",
+          "id": "32",
           "name": "Fuack – Manic Wave Ripper",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "033",
+          "id": "33",
           "name": "Wumpo – Frostpeak Sentinel",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "034",
+          "id": "34",
           "name": "Teafant – Fountain of Cheer",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "035",
+          "id": "35",
           "name": "Mau Cryst – Harbinger of Riches",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "036",
+          "id": "36",
           "name": "Celaray – Loop De Loop",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "037",
+          "id": "37",
           "name": "Surfent – Swift Swimmer",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "038",
+          "id": "38",
           "name": "Cryolinx – Arctic Ordeal",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "039",
+          "id": "39",
           "name": "Antique Curtain",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "040",
+          "id": "40",
           "name": "Antique Dresser",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "041",
+          "id": "41",
           "name": "Hot Spring",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "042",
+          "id": "42",
           "name": "Antique Mirror",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "043",
+          "id": "43",
           "name": "Sphere Workbench",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "044",
+          "id": "44",
           "name": "Pengullet Rocket Launcher",
           "type": "GEAR",
           "rarity": "RARE"
         },
         {
-          "id": "045",
+          "id": "45",
           "name": "Grappling Gun",
           "type": "GEAR",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "046",
+          "id": "46",
           "name": "Victor's Strategy",
           "type": "EVENT",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "047",
+          "id": "47",
           "name": "Pal Sphere",
           "type": "EVENT",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "048",
+          "id": "48",
           "name": "Aurora's Guide",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "049",
+          "id": "49",
           "name": "Lyleen – Blessing of the Goddess",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "050",
+          "id": "50",
           "name": "Digtoise – Seismic Drillback",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "051",
+          "id": "51",
           "name": "Petallia – Sweet Blessings",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "052",
+          "id": "52",
           "name": "Rushoar – Reckless Destruction",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "053",
+          "id": "53",
           "name": "Elizabee – Queen of the Flower Garden",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "054",
+          "id": "54",
           "name": "Warsect – Iron Fortress",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "055",
+          "id": "55",
           "name": "Vaelet – Bewitching Blossom",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "056",
+          "id": "56",
           "name": "Lifmunk – Promising Newbie",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "057",
+          "id": "57",
           "name": "Dumud – Mellow Bounty",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "058",
+          "id": "58",
           "name": "Gumoss – Curious Sprout",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "059",
+          "id": "59",
           "name": "Digtoise – Keen Needleback",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "060",
+          "id": "60",
           "name": "Tanzee – Cheerful Worker",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "061",
+          "id": "61",
           "name": "Beegarde – Knight of the Flower Garden",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "062",
+          "id": "62",
           "name": "Wumpo Botan – Tropical Sentinel",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "063",
+          "id": "63",
           "name": "Breeding Farm",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "064",
+          "id": "64",
           "name": "Cola Vending Machine",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "065",
+          "id": "65",
           "name": "Feed Box",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "066",
+          "id": "66",
           "name": "Ranch",
           "type": "STRUCTURE",
           "rarity": "RARE"
         },
         {
-          "id": "067",
+          "id": "67",
           "name": "No Pal's Beyond Sign",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "068",
+          "id": "68",
           "name": "Digtoise's Headband",
           "type": "GEAR",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "069",
+          "id": "69",
           "name": "Farming Hat",
           "type": "GEAR",
           "rarity": "COMMON"
         },
         {
-          "id": "070",
+          "id": "70",
           "name": "Lily's Strategy",
           "type": "EVENT",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "071",
+          "id": "71",
           "name": "Found an Egg!",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "072",
+          "id": "72",
           "name": "Blessing of the Flower Spirit",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "073",
+          "id": "73",
           "name": "Helzephyr – Wings of the Moonless Night",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "074",
+          "id": "74",
           "name": "Shadowbeak – Seed of Despair",
           "type": "PAL",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "075",
+          "id": "75",
           "name": "Katress – Abyssal Sorcerer",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "076",
+          "id": "76",
           "name": "Tombat – Out of Nowhere!?",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "077",
+          "id": "77",
           "name": "Pyrin Noct – Steed of Azure Flames",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "078",
+          "id": "78",
           "name": "Lyleen Noct – Providence of the Goddess",
           "type": "PAL",
           "rarity": "RARE"
         },
         {
-          "id": "079",
+          "id": "79",
           "name": "Depresso – Late Night Hustler",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "080",
+          "id": "80",
           "name": "Daedream – First Slumber",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "081",
+          "id": "81",
           "name": "Loveander – Heartstealer",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "082",
+          "id": "82",
           "name": "Daedream – Deep Slumber",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "083",
+          "id": "83",
           "name": "Vanwyrm – Marauder of the Skies",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "084",
+          "id": "84",
           "name": "Menasting – Darkness-Dwelling Scorpion",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "085",
+          "id": "85",
           "name": "Maraith – Twilight Messenger",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "086",
+          "id": "86",
           "name": "Nox – The Silent One",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "087",
+          "id": "87",
           "name": "Loupmoon – Glinting Moonlight",
           "type": "PAL",
           "rarity": "COMMON"
         },
         {
-          "id": "088",
+          "id": "88",
           "name": "Lamp",
           "type": "STRUCTURE",
           "rarity": "RARE"
         },
         {
-          "id": "089",
+          "id": "89",
           "name": "Shoddy Bed",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "090",
+          "id": "90",
           "name": "Medieval Medicine Workbench",
           "type": "STRUCTURE",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "091",
+          "id": "91",
           "name": "Wooden Wall",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "092",
+          "id": "92",
           "name": "Viewing Cage",
           "type": "STRUCTURE",
           "rarity": "COMMON"
         },
         {
-          "id": "093",
+          "id": "93",
           "name": "Meat Cleaver",
           "type": "GEAR",
           "rarity": "RARE"
         },
         {
-          "id": "094",
+          "id": "94",
           "name": "Daedream's Necklace",
           "type": "GEAR",
           "rarity": "COMMON"
         },
         {
-          "id": "095",
+          "id": "95",
           "name": "Zoe's Strategy",
           "type": "EVENT",
           "rarity": "DOUBLE_RARE"
         },
         {
-          "id": "096",
+          "id": "96",
           "name": "Dark Cannon",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "097",
+          "id": "97",
           "name": "Black Marketeer",
           "type": "EVENT",
           "rarity": "COMMON"
         },
         {
-          "id": "098",
+          "id": "98",
           "name": "Elphidran – Gentle Radiance",
           "type": "PAL",
           "rarity": "UNCOMMON"
         },
         {
-          "id": "099",
+          "id": "99",
           "name": "Direhowl – Proud Fang",
           "type": "PAL",
           "rarity": "COMMON"
@@ -605,6 +605,613 @@
           "name": "The Adventure Begins",
           "type": "EVENT",
           "rarity": "UNCOMMON"
+        }
+      ]
+    },
+    {
+      "id": "EBP02",
+      "name": "Legends Awaken",
+      "releaseDate": "2026-10-30",
+      "cards": [
+        {
+          "id": "1",
+          "name": "Orserk – Thunderclap Roar",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "2",
+          "name": "Katress Ignis – Scathing Counter",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "3",
+          "name": "Faleris – Marcus' Soaring Wings",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "4",
+          "name": "Chillet Ignis – Ember-Clad Dragon",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "5",
+          "name": "Rayhound – Soaring Flash",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "6",
+          "name": "Mossanda Lux – Apex Grenadier",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "7",
+          "name": "Flambelle – Feverish Tears",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "8",
+          "name": "Dazzi – Thunder Maiden",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "9",
+          "name": "Arsox – Blazing Fury",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "10",
+          "name": "Relaxaurus Lux – Party Time",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "11",
+          "name": "Leezpunk Ignis – Hot-Blooded Finish",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "12",
+          "name": "Jolthog – 10-Million-Volt Barrier",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "13",
+          "name": "Foxparks – Breathing Practice",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "14",
+          "name": "Beakon – Thunderbolt Glory",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "15",
+          "name": "Improved Furnace",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "16",
+          "name": "Coal Quarry",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "17",
+          "name": "Mine",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "18",
+          "name": "Rocket Launcher",
+          "type": "GEAR",
+          "rarity": "RARE"
+        },
+        {
+          "id": "19",
+          "name": "Flamethrower",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "20",
+          "name": "Musket",
+          "type": "GEAR",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "21",
+          "name": "Mossanda Lux's Grenade Launcher",
+          "type": "GEAR",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "22",
+          "name": "Axel's Gambit",
+          "type": "EVENT",
+          "rarity": "RARE"
+        },
+        {
+          "id": "23",
+          "name": "Marcus' Turf",
+          "type": "EVENT",
+          "rarity": "RARE"
+        },
+        {
+          "id": "24",
+          "name": "Flame Funnel",
+          "type": "EVENT",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "25",
+          "name": "Frostallion – Everlasting Rime",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "26",
+          "name": "Foxcicle – Aurora Hymn",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "27",
+          "name": "Sweepa – Record Breaker",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "28",
+          "name": "Sibelyx – Silken Spinner",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "29",
+          "name": "Jolthog Cryst – Midwinter Awakening",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "30",
+          "name": "Gobfin – Sunken Memories",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "31",
+          "name": "Broncherry Aqua – The Shape of Love",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "32",
+          "name": "Kingpaca Cryst – Prideful Solitude",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "33",
+          "name": "Pengullet – Locked and Loaded",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "34",
+          "name": "Swee – Hibernating Together",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "35",
+          "name": "Kelpsea – Spirited Splash",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "36",
+          "name": "Celaray – Carefree Wanderer",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "37",
+          "name": "Kingpaca Cryst – Frosty Solitude",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "38",
+          "name": "Suzaku Aqua – Tide Summoner",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "39",
+          "name": "Antique Cabinet",
+          "type": "STRUCTURE",
+          "rarity": "RARE"
+        },
+        {
+          "id": "40",
+          "name": "Water Fountain",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "41",
+          "name": "High Quality Hot Spring",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "42",
+          "name": "Antique Partition",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "43",
+          "name": "Stun Baton",
+          "type": "GEAR",
+          "rarity": "RARE"
+        },
+        {
+          "id": "44",
+          "name": "Frostallion Saddle",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "45",
+          "name": "Sweepa Saddle",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "46",
+          "name": "Victor's Gambit",
+          "type": "EVENT",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "47",
+          "name": "Love Overload",
+          "type": "EVENT",
+          "rarity": "RARE"
+        },
+        {
+          "id": "48",
+          "name": "Iceberg",
+          "type": "EVENT",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "49",
+          "name": "Anubis – Noble Reaper",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "50",
+          "name": "Mammorest – Gaia Crusher",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "51",
+          "name": "Bristla – Regal Gaze",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "52",
+          "name": "Fuddler – Claw-Honing Mole",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "53",
+          "name": "Dumud – Bountiful Earth",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "54",
+          "name": "Quivern Botan – Meadow's Grace",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "55",
+          "name": "Beegarde – Faithful Honor",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "56",
+          "name": "Lifmunk – Hidden Power",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "57",
+          "name": "Eikthyrdeer Terra – Will of Nature",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "58",
+          "name": "Digtoise – Pulverizing Whirl",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "59",
+          "name": "Cinnamoth – Wings of Allure",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "60",
+          "name": "Hangyu – Heaven's Grip",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "61",
+          "name": "Surfent Terra – Conqueror of the Sands",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "62",
+          "name": "Dazemu – Stride of Oblivion",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "63",
+          "name": "Beware of Mammorest Sign",
+          "type": "STRUCTURE",
+          "rarity": "RARE"
+        },
+        {
+          "id": "64",
+          "name": "Mill",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "65",
+          "name": "Electric Kitchen",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "66",
+          "name": "Pioneer Ranch",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "67",
+          "name": "Wooden Chest",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "68",
+          "name": "Lifmunk's Submachine Gun",
+          "type": "GEAR",
+          "rarity": "RARE"
+        },
+        {
+          "id": "69",
+          "name": "Refined Metal Axe",
+          "type": "GEAR",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "70",
+          "name": "Old Bow",
+          "type": "GEAR",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "71",
+          "name": "Lily's Gambit",
+          "type": "EVENT",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "72",
+          "name": "Seed Machine Gun",
+          "type": "EVENT",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "73",
+          "name": "Frostallion Noct – Eternal Darkness",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "74",
+          "name": "Selyne – Saya's Moonlit Beacon",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "75",
+          "name": "Tombat – Resonance of Shadows",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "76",
+          "name": "Prixter – Nightfall Stinger",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "77",
+          "name": "Shroomer Noct – Spores of the Void",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "78",
+          "name": "Kitsun Noct – Umbral Prowler",
+          "type": "PAL",
+          "rarity": "RARE"
+        },
+        {
+          "id": "79",
+          "name": "Nox – One-Way Ticket",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "80",
+          "name": "Mau – Greed Beckons",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "81",
+          "name": "Sootseer – Grave Robber",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "82",
+          "name": "Daedream – Blissful Dreams",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "83",
+          "name": "Wixen Noct – Honeyed Temptation",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "84",
+          "name": "Killamari – Abyssal Terror",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "85",
+          "name": "Bushi Noct – Blade of Regret",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "86",
+          "name": "Incineram Noct – Predator of Doom",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "87",
+          "name": "Electric Medicine Workbench",
+          "type": "STRUCTURE",
+          "rarity": "RARE"
+        },
+        {
+          "id": "88",
+          "name": "Chandelier",
+          "type": "STRUCTURE",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "89",
+          "name": "Bear Trap (Small)",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "90",
+          "name": "Fine Bed",
+          "type": "STRUCTURE",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "91",
+          "name": "Dark Grenade",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "92",
+          "name": "Frostallion Noct Saddle",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "93",
+          "name": "Poison Arrow Crossbow",
+          "type": "GEAR",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "94",
+          "name": "Zoe's Gambit",
+          "type": "EVENT",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "95",
+          "name": "Saya's Crescent Moon",
+          "type": "EVENT",
+          "rarity": "RARE"
+        },
+        {
+          "id": "96",
+          "name": "Poison Fog",
+          "type": "EVENT",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "97",
+          "name": "Jetragon – Legendary Guardian Dragon",
+          "type": "PAL",
+          "rarity": "DOUBLE_RARE"
+        },
+        {
+          "id": "98",
+          "name": "Melpaca – A Fluffy Gift",
+          "type": "PAL",
+          "rarity": "UNCOMMON"
+        },
+        {
+          "id": "99",
+          "name": "Eikthyrdeer – Warden of the Woods",
+          "type": "PAL",
+          "rarity": "COMMON"
+        },
+        {
+          "id": "100",
+          "name": "Awakening of Legends",
+          "type": "EVENT",
+          "rarity": "COMMON"
         }
       ]
     }
