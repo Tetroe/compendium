@@ -181176,6 +181176,1230 @@
               "illustrators": ["Shinji Kanda"]
             }
           ]
+        },
+        {
+          "id": "me6",
+          "name": "Delta Reign",
+          "code": "DLR",
+          "releaseDate": "2026-11-06",
+          "printedTotal": 103,
+          "cards": [
+            {
+              "id": "1",
+              "name": "Heracross",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [214],
+              "illustrators": ["Satoshi Ito"]
+            },
+            {
+              "id": "2",
+              "name": "Surskit",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [283],
+              "illustrators": ["Gemi"]
+            },
+            {
+              "id": "3",
+              "name": "Masquerain",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [284],
+              "illustrators": ["Kazumasa Yasukuni"]
+            },
+            {
+              "id": "4",
+              "name": "Cacnea",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [331],
+              "illustrators": ["Minato"]
+            },
+            {
+              "id": "5",
+              "name": "Cacturne",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [332],
+              "illustrators": ["okayamatakatoshi"]
+            },
+            {
+              "id": "6",
+              "name": "Combee",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [415],
+              "illustrators": ["nisimono"]
+            },
+            {
+              "id": "7",
+              "name": "Vespiquen",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [416],
+              "illustrators": ["Masako Tomii"]
+            },
+            {
+              "id": "8",
+              "name": "Shaymin",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [492],
+              "illustrators": ["HYOGONOSUKE"]
+            },
+            {
+              "id": "9",
+              "name": "Virizion",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [640],
+              "illustrators": ["AKIRA EGAWA"]
+            },
+            {
+              "id": "10",
+              "name": "Wimpod",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [767],
+              "illustrators": ["Jerky"]
+            },
+            {
+              "id": "11",
+              "name": "Mega Golisopod ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [768],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "12",
+              "name": "Sprigatito",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [906],
+              "illustrators": ["Makura Tami"]
+            },
+            {
+              "id": "13",
+              "name": "Floragato",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [907],
+              "illustrators": ["Sanosuke Sakuma"]
+            },
+            {
+              "id": "14",
+              "name": "Meowscarada ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [908],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "15",
+              "name": "Smoliv",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [928],
+              "illustrators": ["Kanami Ogata"]
+            },
+            {
+              "id": "16",
+              "name": "Dolliv",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [929],
+              "illustrators": ["Eri Kamei"]
+            },
+            {
+              "id": "17",
+              "name": "Arboliva",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [930],
+              "illustrators": ["Aliya Chen"]
+            },
+            {
+              "id": "18",
+              "name": "Growlithe",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [58],
+              "illustrators": ["Teeziro"]
+            },
+            {
+              "id": "19",
+              "name": "Arcanine",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [59],
+              "illustrators": ["Felicia Chen"]
+            },
+            {
+              "id": "20",
+              "name": "Magmar",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [126],
+              "illustrators": ["GOSSAN"]
+            },
+            {
+              "id": "21",
+              "name": "Magmortar",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [467],
+              "illustrators": ["Ryuta Fuse"]
+            },
+            {
+              "id": "22",
+              "name": "Torkoal",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [324],
+              "illustrators": ["Tonji Matsuno"]
+            },
+            {
+              "id": "23",
+              "name": "Heat Rotom ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [479],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "24",
+              "name": "Heatmor",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [631],
+              "illustrators": ["Takeshi Nakamura"]
+            },
+            {
+              "id": "25",
+              "name": "Mantine",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [226],
+              "illustrators": ["kodama"]
+            },
+            {
+              "id": "26",
+              "name": "Kyogre",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [382],
+              "illustrators": ["Anderson"]
+            },
+            {
+              "id": "27",
+              "name": "Frillish",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [592],
+              "illustrators": ["Mousho"]
+            },
+            {
+              "id": "28",
+              "name": "Jellicent",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [593],
+              "illustrators": ["Nurikabe"]
+            },
+            {
+              "id": "29",
+              "name": "Wishiwashi ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [746],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "30",
+              "name": "Electabuzz",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [125],
+              "illustrators": ["kurumitsu"]
+            },
+            {
+              "id": "31",
+              "name": "Electivire",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [466],
+              "illustrators": ["hncl"]
+            },
+            {
+              "id": "32",
+              "name": "Jolteon",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [135],
+              "illustrators": ["hncl"]
+            },
+            {
+              "id": "33",
+              "name": "Raikou ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [243],
+              "illustrators": ["aky CG Works"]
+            },
+            {
+              "id": "34",
+              "name": "Rotom",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [479],
+              "illustrators": ["Yukiko Baba"]
+            },
+            {
+              "id": "35",
+              "name": "Thundurus",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [642],
+              "illustrators": ["Takumi Wada"]
+            },
+            {
+              "id": "36",
+              "name": "Pincurchin",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [871],
+              "illustrators": ["OKUBO"]
+            },
+            {
+              "id": "37",
+              "name": "Pawmi",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [921],
+              "illustrators": ["TOMATO MARKET"]
+            },
+            {
+              "id": "38",
+              "name": "Pawmo",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [922],
+              "illustrators": ["Susumu Maeya"]
+            },
+            {
+              "id": "39",
+              "name": "Pawmot",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [923],
+              "illustrators": ["kirisAki"]
+            },
+            {
+              "id": "40",
+              "name": "Wattrel",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [940],
+              "illustrators": ["Yukihiro Tada"]
+            },
+            {
+              "id": "41",
+              "name": "Kilowattrel",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [941],
+              "illustrators": ["OKACHEKE"]
+            },
+            {
+              "id": "42",
+              "name": "Miraidon",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [1008],
+              "illustrators": ["Atsushi Furusawa"]
+            },
+            {
+              "id": "43",
+              "name": "Drowzee",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [96],
+              "illustrators": ["Hachinana"]
+            },
+            {
+              "id": "44",
+              "name": "Hypno",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [97],
+              "illustrators": ["Yuta Kawazu"]
+            },
+            {
+              "id": "45",
+              "name": "Giratina",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [487],
+              "illustrators": ["toriyufu"]
+            },
+            {
+              "id": "46",
+              "name": "Golett",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [622],
+              "illustrators": ["Hideki Ishikawa"]
+            },
+            {
+              "id": "47",
+              "name": "Mega Golurk ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [623],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "48",
+              "name": "Enamorus",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [905],
+              "illustrators": ["Anesaki Dynamic"]
+            },
+            {
+              "id": "49",
+              "name": "Sandshrew",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [27],
+              "illustrators": ["Izucch"]
+            },
+            {
+              "id": "50",
+              "name": "Sandslash",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [28],
+              "illustrators": ["aoki"]
+            },
+            {
+              "id": "51",
+              "name": "Onix",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [95],
+              "illustrators": ["Kedamahadaitai Yawarakai"]
+            },
+            {
+              "id": "52",
+              "name": "Steelix",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [208],
+              "illustrators": ["Shin Nagasawa"]
+            },
+            {
+              "id": "53",
+              "name": "Groudon",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [383],
+              "illustrators": ["Nisota Niso"]
+            },
+            {
+              "id": "54",
+              "name": "Landorus",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [645],
+              "illustrators": ["Oku"]
+            },
+            {
+              "id": "55",
+              "name": "Nidoran♀",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [29],
+              "illustrators": ["tayu"]
+            },
+            {
+              "id": "56",
+              "name": "Nidorina",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [30],
+              "illustrators": ["Jiro Sasumo"]
+            },
+            {
+              "id": "57",
+              "name": "Nidoqueen",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [31],
+              "illustrators": ["Aliya Chen"]
+            },
+            {
+              "id": "58",
+              "name": "Spinarak",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [167],
+              "illustrators": ["Apios"]
+            },
+            {
+              "id": "59",
+              "name": "Ariados",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [168],
+              "illustrators": ["UKUMO uiti"]
+            },
+            {
+              "id": "60",
+              "name": "Sableye",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [302],
+              "illustrators": ["Shinji Kanda"]
+            },
+            {
+              "id": "61",
+              "name": "Carvanha",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [318],
+              "illustrators": ["Julie Hang"]
+            },
+            {
+              "id": "62",
+              "name": "Sharpedo",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [319],
+              "illustrators": ["Kazumasa Yasukuni"]
+            },
+            {
+              "id": "63",
+              "name": "Darkrai",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [491],
+              "illustrators": ["Anesaki Dynamic"]
+            },
+            {
+              "id": "64",
+              "name": "Purrloin",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [509],
+              "illustrators": ["Hachinana"]
+            },
+            {
+              "id": "65",
+              "name": "Liepard",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [510],
+              "illustrators": ["Souichirou Gunjima"]
+            },
+            {
+              "id": "66",
+              "name": "Zorua",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [570],
+              "illustrators": ["HYOGONOSUKE"]
+            },
+            {
+              "id": "67",
+              "name": "Zoroark ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [571],
+              "illustrators": ["Keisuke Azuma"]
+            },
+            {
+              "id": "68",
+              "name": "Inkay",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [686],
+              "illustrators": ["kawayoo"]
+            },
+            {
+              "id": "69",
+              "name": "Mega Malamar ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [687],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "70",
+              "name": "Morpeko",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [877],
+              "illustrators": ["kurumitsu"]
+            },
+            {
+              "id": "71",
+              "name": "Zarude",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [893],
+              "illustrators": ["Nisota Niso"]
+            },
+            {
+              "id": "72",
+              "name": "Druddigon",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["DRAGON"],
+              "pokedexNumbers": [621],
+              "illustrators": ["AKIRA EGAWA"]
+            },
+            {
+              "id": "73",
+              "name": "Jangmo-o",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DRAGON"],
+              "pokedexNumbers": [782],
+              "illustrators": ["June"]
+            },
+            {
+              "id": "74",
+              "name": "Hakamo-o",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DRAGON"],
+              "pokedexNumbers": [783],
+              "illustrators": ["Scav"]
+            },
+            {
+              "id": "75",
+              "name": "Kommo-o",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["DRAGON"],
+              "pokedexNumbers": [784],
+              "illustrators": ["Mitsuhiro Arita"]
+            },
+            {
+              "id": "76",
+              "name": "Cyclizar",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["DRAGON"],
+              "pokedexNumbers": [967],
+              "illustrators": ["Saboteri"]
+            },
+            {
+              "id": "77",
+              "name": "Tauros",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [128],
+              "illustrators": ["Uta"]
+            },
+            {
+              "id": "78",
+              "name": "Eevee",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [133],
+              "illustrators": ["UKUMO uiti"]
+            },
+            {
+              "id": "79",
+              "name": "Delibird",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [225],
+              "illustrators": ["satoma"]
+            },
+            {
+              "id": "80",
+              "name": "Azurill",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [298],
+              "illustrators": ["TOMATO MARKET"]
+            },
+            {
+              "id": "81",
+              "name": "Swablu",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [333],
+              "illustrators": ["Shiburingaru"]
+            },
+            {
+              "id": "82",
+              "name": "Altaria",
+              "type": "POKEMON",
+              "rarity": "RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [334],
+              "illustrators": ["Atsushi Furusawa"]
+            },
+            {
+              "id": "83",
+              "name": "Kecleon",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [352],
+              "illustrators": ["Akira Komayama"]
+            },
+            {
+              "id": "84",
+              "name": "Mega Rayquaza ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [384],
+              "illustrators": ["takuyoa"]
+            },
+            {
+              "id": "85",
+              "name": "Tornadus",
+              "type": "POKEMON",
+              "rarity": "UNCOMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [641],
+              "illustrators": ["Uta"]
+            },
+            {
+              "id": "86",
+              "name": "Fletchling",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [661],
+              "illustrators": ["takashi shiraishi"]
+            },
+            {
+              "id": "87",
+              "name": "Fletchinder",
+              "type": "POKEMON",
+              "rarity": "COMMON",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [662],
+              "illustrators": ["Souichirou Gunjima"]
+            },
+            {
+              "id": "88",
+              "name": "Talonflame ex",
+              "type": "POKEMON",
+              "rarity": "DOUBLE_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [663],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "89",
+              "name": "Aarune",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["Sanosuke Sakuma"]
+            },
+            {
+              "id": "90",
+              "name": "Adventure Lantern",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["inose yukie"]
+            },
+            {
+              "id": "91",
+              "name": "Custom Vest",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["Toyste Beach"]
+            },
+            {
+              "id": "92",
+              "name": "Emcee's Hype",
+              "type": "TRAINER",
+              "rarity": "COMMON",
+              "illustrators": ["DOM"]
+            },
+            {
+              "id": "93",
+              "name": "Grisham",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["Souichirou Gunjima"]
+            },
+            {
+              "id": "94",
+              "name": "Legendary Pyroduct",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["akagi"]
+            },
+            {
+              "id": "95",
+              "name": "Legendary Pyroduct",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["akagi"]
+            },
+            {
+              "id": "96",
+              "name": "Legendary Summit",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["nagimiso"]
+            },
+            {
+              "id": "97",
+              "name": "Legendary Summit",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["nagimiso"]
+            },
+            {
+              "id": "98",
+              "name": "Legendary Trench",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["danciao"]
+            },
+            {
+              "id": "99",
+              "name": "Legendary Trench",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["danciao"]
+            },
+            {
+              "id": "100",
+              "name": "Mega Rayquaza Cap",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["AYUMI ODASHIMA"]
+            },
+            {
+              "id": "101",
+              "name": "Tasty Rice Ball",
+              "type": "TRAINER",
+              "rarity": "COMMON",
+              "illustrators": ["AYUMI ODASHIMA"]
+            },
+            {
+              "id": "102",
+              "name": "Tate & Liza's Training",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["Yuu Nishida"]
+            },
+            {
+              "id": "103",
+              "name": "Zinnia's Trust",
+              "type": "TRAINER",
+              "rarity": "UNCOMMON",
+              "illustrators": ["GIDORA"]
+            },
+            {
+              "id": "104",
+              "name": "Masquerain",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [284],
+              "illustrators": ["REND"]
+            },
+            {
+              "id": "105",
+              "name": "Sprigatito",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [906],
+              "illustrators": ["Jiro Sasumo"]
+            },
+            {
+              "id": "106",
+              "name": "Growlithe",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [58],
+              "illustrators": ["Yoshimoto Yoshimon"]
+            },
+            {
+              "id": "107",
+              "name": "Magmortar",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [467],
+              "illustrators": ["Taiga Kasai"]
+            },
+            {
+              "id": "108",
+              "name": "Electivire",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [466],
+              "illustrators": ["Rianti Hidayat"]
+            },
+            {
+              "id": "109",
+              "name": "Pincurchin",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [871],
+              "illustrators": ["Tetsu Kayama"]
+            },
+            {
+              "id": "110",
+              "name": "Enamorus",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [905],
+              "illustrators": ["Taira Akitsu"]
+            },
+            {
+              "id": "111",
+              "name": "Groudon",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["FIGHTING"],
+              "pokedexNumbers": [383],
+              "illustrators": ["Ryota Murayama"]
+            },
+            {
+              "id": "112",
+              "name": "Zorua",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [570],
+              "illustrators": ["GOSSAN"]
+            },
+            {
+              "id": "113",
+              "name": "Inkay",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [686],
+              "illustrators": ["Rond"]
+            },
+            {
+              "id": "114",
+              "name": "Eevee",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [133],
+              "illustrators": ["Hideki Ishikawa"]
+            },
+            {
+              "id": "115",
+              "name": "Azurill",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [298],
+              "illustrators": ["Narumi Sato"]
+            },
+            {
+              "id": "116",
+              "name": "Altaria",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [334],
+              "illustrators": ["kodama"]
+            },
+            {
+              "id": "117",
+              "name": "Kecleon",
+              "type": "POKEMON",
+              "rarity": "ILLUSTRATION_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [352],
+              "illustrators": ["Tomokazu Komiya"]
+            },
+            {
+              "id": "118",
+              "name": "Mega Golisopod ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [768],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "119",
+              "name": "Heat Rotom ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["FIRE"],
+              "pokedexNumbers": [479],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "120",
+              "name": "Wishiwashi ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["WATER"],
+              "pokedexNumbers": [746],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "121",
+              "name": "Raikou ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [243],
+              "illustrators": ["aky CG Works"]
+            },
+            {
+              "id": "122",
+              "name": "Mega Golurk ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [623],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "123",
+              "name": "Mega Malamar ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["DARKNESS"],
+              "pokedexNumbers": [687],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "124",
+              "name": "Talonflame ex",
+              "type": "POKEMON",
+              "rarity": "ULTRA_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [663],
+              "illustrators": ["5ban Graphics"]
+            },
+            {
+              "id": "125",
+              "name": "Aarune",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["Sanosuke Sakuma"]
+            },
+            {
+              "id": "126",
+              "name": "Adventure Lantern",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["inose yukie"]
+            },
+            {
+              "id": "127",
+              "name": "Custom Vest",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["Toyste Beach"]
+            },
+            {
+              "id": "128",
+              "name": "Emcee's Hype",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["DOM"]
+            },
+            {
+              "id": "129",
+              "name": "Pokémon Catcher",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["Studio Bora Inc."]
+            },
+            {
+              "id": "130",
+              "name": "Tate & Liza's Training",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["Yuu Nishida"]
+            },
+            {
+              "id": "131",
+              "name": "Zinnia's Trust",
+              "type": "TRAINER",
+              "rarity": "ULTRA_RARE",
+              "illustrators": ["GIDORA"]
+            },
+            {
+              "id": "132",
+              "name": "Bubbly Water Energy",
+              "type": "ENERGY",
+              "rarity": "ULTRA_RARE",
+              "illustrators": []
+            },
+            {
+              "id": "133",
+              "name": "Growing Grass Energy",
+              "type": "ENERGY",
+              "rarity": "ULTRA_RARE",
+              "illustrators": []
+            },
+            {
+              "id": "134",
+              "name": "Nitro Fire Energy",
+              "type": "ENERGY",
+              "rarity": "ULTRA_RARE",
+              "illustrators": []
+            },
+            {
+              "id": "135",
+              "name": "Mega Golisopod ex",
+              "type": "POKEMON",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "energyTypes": ["GRASS"],
+              "pokedexNumbers": [768],
+              "illustrators": ["nagimiso"]
+            },
+            {
+              "id": "136",
+              "name": "Raikou ex",
+              "type": "POKEMON",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "energyTypes": ["LIGHTNING"],
+              "pokedexNumbers": [243],
+              "illustrators": ["Oku"]
+            },
+            {
+              "id": "137",
+              "name": "Mega Golurk ex",
+              "type": "POKEMON",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "energyTypes": ["PSYCHIC"],
+              "pokedexNumbers": [623],
+              "illustrators": ["Takeshi Nakamura"]
+            },
+            {
+              "id": "138",
+              "name": "Mega Rayquaza ex",
+              "type": "POKEMON",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [384],
+              "illustrators": ["Kazuki Minami"]
+            },
+            {
+              "id": "139",
+              "name": "Aarune",
+              "type": "TRAINER",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "illustrators": ["Shimaris Yukichi"]
+            },
+            {
+              "id": "140",
+              "name": "Zinnia's Trust",
+              "type": "TRAINER",
+              "rarity": "SPECIAL_ILLUSTRATION_RARE",
+              "illustrators": ["Teeziro"]
+            },
+            {
+              "id": "141",
+              "name": "Mega Rayquaza ex",
+              "type": "POKEMON",
+              "rarity": "MEGA_HYPER_RARE",
+              "energyTypes": ["COLORLESS"],
+              "pokedexNumbers": [384],
+              "illustrators": ["takuyoa"]
+            }
+          ]
         }
       ]
     }
